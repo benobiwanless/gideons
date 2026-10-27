@@ -1,0 +1,307 @@
+{
+  "updated": "2026-10-27",
+  "source": "https://gideonsbakehouse.com/bakery-menu/",
+  "items": [
+    {
+      "id": "cookie-the-frankenstein",
+      "name": "The Frankenstein",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-bride-of-frankenstein",
+      "name": "Bride of Frankenstein",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-original-chocolate-chip",
+      "name": "Original Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-pistachio-toffee-chocolate-chip",
+      "name": "Pistachio Toffee Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-cookies-cream",
+      "name": "Cookies & Cream",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-peanut-butter-crunch",
+      "name": "Peanut Butter Crunch",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-triple-chocolate-chip",
+      "name": "Triple Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-banana-bread-chocolate-chip",
+      "name": "Banana Bread Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-coffee-cake",
+      "name": "Coffee Cake",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-candied-walnut-chocolate-chip",
+      "name": "Candied Walnut Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-dark-coffee-cake",
+      "name": "Dark Coffee Cake",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-gideon-s-bites",
+      "name": "Gideon’s Bites",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-key-lime-chocolate-chip",
+      "name": "Key Lime Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-lemon-poppyseed",
+      "name": "Lemon PoppySeed",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-chocolate-churro-cookie",
+      "name": "Chocolate Churro Cookie",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-the-eternal-flame",
+      "name": "The Eternal Flame",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-pumpkin-bread-chocolate-crumb",
+      "name": "Pumpkin Bread Chocolate Crumb",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-cookie-butter-butterscotch-cookie",
+      "name": "Cookie Butter Butterscotch Cookie",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-orange-pecan-chocolate-chip",
+      "name": "Orange Pecan Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-raspberry-dark-coffee-cake",
+      "name": "Raspberry Dark Coffee Cake",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-eternal-flameless",
+      "name": "Eternal Flameless",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-the-sea-turtle-cookie",
+      "name": "The Sea Turtle Cookie",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-lemon-poppy-crumb-cookie",
+      "name": "Lemon Poppy Crumb Cookie",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-maple-walnut-chocolate-chip",
+      "name": "Maple Walnut Chocolate Chip",
+      "type": "cookie",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-bride-of-frankenstein-cake",
+      "name": "Bride of Frankenstein Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-s-mores-cake",
+      "name": "S’mores Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-carrot-cake",
+      "name": "Carrot Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-red-velvet",
+      "name": "Red Velvet",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-chocolate-coffee-toffee",
+      "name": "Chocolate Coffee Toffee",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-chocolate-everything-cake",
+      "name": "Chocolate Everything Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-fluffernutter-cake",
+      "name": "Fluffernutter Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-chocolate-crumb-cake",
+      "name": "Chocolate Crumb Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-salted-caramel-cake",
+      "name": "Salted Caramel Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-the-frankenstein-cake",
+      "name": "The Frankenstein Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-banana-walnut-chocolate-chip-cake",
+      "name": "Banana Walnut Chocolate Chip Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-cookie-butter-buttercream-cake",
+      "name": "Cookie Butter Buttercream Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-andes-mint-cake",
+      "name": "Andes Mint Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-pb-jelly-cake",
+      "name": "PB & Jelly Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-peanut-butter-cup",
+      "name": "Peanut Butter Cup",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-rainbow-crunch-cake",
+      "name": "Rainbow Crunch Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-chocolate-chip-marshmallow",
+      "name": "Chocolate Chip Marshmallow",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-valentina-s-cake",
+      "name": "Valentina’s Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cake-key-lime-pie-cake",
+      "name": "Key Lime Pie Cake",
+      "type": "cake",
+      "image": "",
+      "first_seen": "2026-10-27"
+    }
+  ]
+}

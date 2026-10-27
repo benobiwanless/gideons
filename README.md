@@ -21,3 +21,23 @@ Create a GitHub repository and upload the contents of this directory, including 
 The collection is stored as `localStorage` on a specific browser and domain, not on a server. Back up using **Export backup**, restore using **Import backup**. Clearing browser data or switching devices loses access to locally saved collection state unless a backup is imported. No account synchronization is provided.
 
 Fan-created reference, not affiliated with Gideon's Bakehouse. Image rights remain with the original owner. Respect the site and don't bypass access limitations.
+
+## NEW: Cookies and Cake Slices tasting tracker
+
+This update adds two tabs to the existing Trading Cards gallery. Each bakery flavor
+has a Tried button, a five-star rating and optional notes. Existing local card
+ownership data remains untouched. The export backup now includes both cards and
+bakery tastings; the importer also accepts older card-only backups.
+
+Files to upload at the **root** of the GitHub repository:
+`index.html`, `cards.json`, `menu.json`, `update_cards.py`, `update_menu.py`.
+Also **replace** `.github/workflows/update.yml` with the updated workflow in this package.
+
+The scheduled GitHub Action checks the official Collector's Hub and bakery menu
+once daily. It **adds** newly discoverable bakery flavors while retaining
+out-of-season flavors already collected. Menu extraction and photos depend on
+Gideon's public site structure and may need maintenance if that changes. Daily
+cake schedules aren't a guarantee of in-store inventory. Card auto-classification
+into series is heuristic: verify unusual promos and future series.
+
+Backup your collection before changing browsers or clearing browser data.

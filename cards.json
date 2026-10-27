@@ -8,8 +8,8 @@
       "number": "00",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/00-BarnabasPromo_CardFront.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/00-BarnabasPromo_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-01",
@@ -17,8 +17,8 @@
       "number": "01",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/01-StuartValencia_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/01-StuartValencia_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-02",
@@ -26,8 +26,8 @@
       "number": "02",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/02-Barnabas_CardFront.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/02-Barnabas_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-03",
@@ -35,8 +35,8 @@
       "number": "03",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/03-KeyLimeMermaid_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/03-KeyLimeMermaid_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-04",
@@ -44,8 +44,8 @@
       "number": "04",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/04-SignorePipistrello_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/04-SignorePipistrello_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-05",
@@ -53,8 +53,8 @@
       "number": "05",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/05-BonnieBrae_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/05-BonnieBrae_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-06",
@@ -62,8 +62,8 @@
       "number": "06",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/06-Adeline_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/06-Adeline_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-07",
@@ -71,8 +71,8 @@
       "number": "07",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/07-Abigail_Cardjpg.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/07-Abigail_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-08",
@@ -80,8 +80,8 @@
       "number": "08",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/08-Agatha_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/08-Agatha_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-09",
@@ -89,8 +89,8 @@
       "number": "09",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/09-JoseCalacas_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/09-JoseCalacas_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-10",
@@ -98,8 +98,8 @@
       "number": "10",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/10-TobiasBrimstone_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/10-TobiasBrimstone_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-11",
@@ -107,8 +107,8 @@
       "number": "11",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/11-ValentinaBroccha_Print.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/11-ValentinaBroccha_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-12",
@@ -116,8 +116,8 @@
       "number": "12",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/12-MourningJoe_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/12-MourningJoe_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-13",
@@ -125,8 +125,8 @@
       "number": "13",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/13-LydiaLovecraft_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/13-LydiaLovecraft_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-14",
@@ -134,8 +134,8 @@
       "number": "14",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/14-JonathanLindwurm_ChaserCard.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/14-JonathanLindwurm_ChaserBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-15",
@@ -143,8 +143,8 @@
       "number": "15",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/15-Stuart_ChaserCard.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/15-Stuart_ChaserBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s1-16",
@@ -152,8 +152,8 @@
       "number": "16",
       "series": 1,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/16-Pipistresllo_ChaserCard.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/16-Pipistresllo_ChaserBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-17",
@@ -161,8 +161,8 @@
       "number": "17",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/17_DaringDMonicos.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/17DaringDMonicos_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-18",
@@ -170,8 +170,8 @@
       "number": "18",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/18_StuartValencia.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/18Stuart_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-19",
@@ -179,8 +179,8 @@
       "number": "19",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/19_Victor.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/19Victor_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-20",
@@ -188,8 +188,8 @@
       "number": "20",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/20_CaptainCagliostro.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/20Cagliostro_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-21",
@@ -197,8 +197,8 @@
       "number": "21",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/21_BonnieBrae.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/21Bonnie_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-22",
@@ -206,8 +206,8 @@
       "number": "22",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/22_Birdy.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/22ThreeLittle_Birdy_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-23",
@@ -215,8 +215,8 @@
       "number": "23",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/23_Bernard.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/23ThreeLittle_Bernard_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-24",
@@ -224,8 +224,8 @@
       "number": "24",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/24_Bethany.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/24ThreeLittle_Bethany_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-25",
@@ -233,8 +233,8 @@
       "number": "25",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/25_Pumpkinfists.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/25Pumpkingfists_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-26",
@@ -242,8 +242,8 @@
       "number": "26",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/26_Natala.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/26Natala_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-27",
@@ -251,8 +251,8 @@
       "number": "27",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/27_Butterscotch.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/27Butterscotch_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-28",
@@ -260,8 +260,8 @@
       "number": "28",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/28_Monaxia.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/28Minoxia_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-29",
@@ -269,8 +269,8 @@
       "number": "29",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/29_SignorePipistrello.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/29Pipistrello_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-30",
@@ -278,8 +278,8 @@
       "number": "30",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/30_MourningJoe.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/30MourningJoe_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-31",
@@ -287,8 +287,8 @@
       "number": "31",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/31_ButterscotchChaser.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/31ButterscotchChase_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-32",
@@ -296,8 +296,8 @@
       "number": "32",
       "series": 2,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/32_DrTobiasChaser.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/32DrTobiasChase_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-2023-halfway-to-halloween",
@@ -305,8 +305,8 @@
       "number": "",
       "series": 2,
       "promo": true,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/2023_HalfwayToHalloween.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/2023_PromoCardReverse.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s2-2023-holiday-promo",
@@ -314,8 +314,8 @@
       "number": "",
       "series": 2,
       "promo": true,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/2023_Holiday_PromoCard.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/2023-HolidayPromoCard-Reverse-2.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-33",
@@ -323,8 +323,8 @@
       "number": "33",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/33MariaVelia_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/33MariaVelia_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-34",
@@ -332,8 +332,8 @@
       "number": "34",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/34ReginaldRidley_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/34ReginaldRidley_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-35",
@@ -341,8 +341,8 @@
       "number": "35",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/35LydiaLovecraft_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/35LydiaLovecraft_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-36",
@@ -350,8 +350,8 @@
       "number": "36",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/36BenjaminFalcon_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/36BenjaminFalcon.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-37",
@@ -359,8 +359,8 @@
       "number": "37",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/37StuartAndBonnie_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/37StuartBonnie_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-38",
@@ -368,8 +368,8 @@
       "number": "38",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/38BenedictPiccadilly_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/38BenedictPiccadilly_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-39",
@@ -377,8 +377,8 @@
       "number": "39",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/39Clayton_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/39Clayton_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-40",
@@ -386,8 +386,8 @@
       "number": "40",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/40Cordelia_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/40Cordelia_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-41",
@@ -395,8 +395,8 @@
       "number": "41",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/41Casey_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/41Casey_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-42",
@@ -404,8 +404,8 @@
       "number": "42",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/42SixRavens_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/42SixRavens_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-43",
@@ -413,8 +413,8 @@
       "number": "43",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/43Poppy_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/43Poppy_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-44",
@@ -422,8 +422,8 @@
       "number": "44",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/44MargaretLightfoot_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/44MargaretLightfoot_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-45",
@@ -431,8 +431,8 @@
       "number": "45",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/45ThaddeusBubo_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/45ThaddeusBubo_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-46",
@@ -440,8 +440,8 @@
       "number": "46",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/46HollyMackere_Frontl.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/46HollyMackerel_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-47",
@@ -449,8 +449,8 @@
       "number": "47",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/47MariaRare_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/47MariaRare_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-48",
@@ -458,8 +458,8 @@
       "number": "48",
       "series": 3,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/48BenjaminareRare_Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/48BenjaminareRare_Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s3-2024-barnabas-promo",
@@ -467,8 +467,8 @@
       "number": "",
       "series": 3,
       "promo": true,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/BarnabasCard.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/BarnabasCardReverse.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-49",
@@ -476,8 +476,8 @@
       "number": "49",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/49_Lindwurm_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/49_LindwurmBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-51",
@@ -485,8 +485,8 @@
       "number": "51",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/51_Butterscotch_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/51_ButterscotchBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-52",
@@ -494,8 +494,8 @@
       "number": "52",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/52_Bartholomew_Color_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/52_BartholomewBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-53",
@@ -503,8 +503,8 @@
       "number": "53",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/53_WomanOfTheWake_Kind_Card-copy.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/53_WomanWakeBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-54",
@@ -512,8 +512,8 @@
       "number": "54",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/54_WomanOfTheWake_Evil_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/54_WomanWakeBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-55",
@@ -521,8 +521,8 @@
       "number": "55",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/55_Nosfere_Color_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/55_NosfereBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-56",
@@ -530,8 +530,8 @@
       "number": "56",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/56_Darcy_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/56_ThreeLittleDarcyBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-57",
@@ -539,8 +539,8 @@
       "number": "57",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/57_Devery_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/57_ThreeLittleDeveryBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-58",
@@ -548,8 +548,8 @@
       "number": "58",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/58_Duli_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/58_ThreeLittleDuliBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-59",
@@ -557,8 +557,8 @@
       "number": "59",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/59_Gordy_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/59_GordyBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-60",
@@ -566,8 +566,8 @@
       "number": "60",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/60_Percy_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/60_PercyBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-61",
@@ -575,8 +575,8 @@
       "number": "61",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/61_Protector_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/61_ProtectorBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-62",
@@ -584,8 +584,8 @@
       "number": "62",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/62_Ourania_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/62_OuraniaBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-63",
@@ -593,8 +593,8 @@
       "number": "63",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/63_Quinby_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/63_QuinbyBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-64",
@@ -602,8 +602,8 @@
       "number": "64",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/64_Bartholomew_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/64_BartholomewRAREBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s4-65",
@@ -611,8 +611,8 @@
       "number": "65",
       "series": 4,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/65_Nosfere_Card.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/02/65_NosfereRAREBack.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-66",
@@ -620,8 +620,8 @@
       "number": "66",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/66_Gilbert_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/66_Gilbert_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-67",
@@ -629,8 +629,8 @@
       "number": "67",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/67_Enoch_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/67_Enoch_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-68",
@@ -638,8 +638,8 @@
       "number": "68",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/68_Eloise_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/68_Eloise_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-69",
@@ -647,8 +647,8 @@
       "number": "69",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/69_Sizlrcroft_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/69_Sizlecroft_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-70",
@@ -656,8 +656,8 @@
       "number": "70",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/70_Whizz_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/70_Whizz_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-71",
@@ -665,8 +665,8 @@
       "number": "71",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/71_Eleanor_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/71_Eleanor_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-72",
@@ -674,8 +674,8 @@
       "number": "72",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/72_Elijah_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/72_Elijah_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-73",
@@ -683,8 +683,8 @@
       "number": "73",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/73_Eek_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/73_Eek_S5Back-1.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-74",
@@ -692,8 +692,8 @@
       "number": "74",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/74_Samuel_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/74_Samuel_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-75",
@@ -701,8 +701,8 @@
       "number": "75",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/75_Orin_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/75_Orin_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-76",
@@ -710,8 +710,8 @@
       "number": "76",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/76_Morsel_Gargoyle_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/76_MorselGargoyle_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-77",
@@ -719,8 +719,8 @@
       "number": "77",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/77_Morsel_Pipi_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/77_MorselPipi_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-78",
@@ -728,8 +728,8 @@
       "number": "78",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/78_Morsel_Joe_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/78_MorselJoe_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-79",
@@ -737,8 +737,8 @@
       "number": "79",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/79_Morsel_Valentina_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/79_MorselValentina_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-80",
@@ -746,8 +746,8 @@
       "number": "80",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/80_Rare01_Sizlecroft_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/80_RARESizlecroft_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-81",
@@ -755,8 +755,8 @@
       "number": "81",
       "series": 5,
       "promo": false,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/81_Rare02_Whiz_S5Front.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/81_RAREWhizz_S5Back.webp?fit=751%2C1024&ssl=1"
+      "front": "",
+      "back": ""
     },
     {
       "id": "s5-h2h-promo-26",
@@ -764,16 +764,7 @@
       "number": "",
       "series": 5,
       "promo": true,
-      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/barnabas-half-way-to-halloween.webp?fit=751%2C1024&ssl=1",
-      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/07/H2H_Morsels_Back.webp?fit=731%2C1024&ssl=1"
-    },
-    {
-      "id": "s5-gideon-s-bakehouse",
-      "name": "Gideon's Bakehouse",
-      "number": "",
-      "series": 5,
-      "promo": true,
-      "front": "https://gideonsbakehouse.com/wp-content/uploads/2026/02/footer-logo.svg",
+      "front": "",
       "back": ""
     }
   ]
