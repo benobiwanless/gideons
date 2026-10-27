@@ -1,0 +1,771 @@
+{
+  "source": "https://gideonsbakehouse.com/collectors-hub/",
+  "updated": "2026-10-27",
+  "cards": [
+    {
+      "id": "s1-00",
+      "name": "00 H2H Promo",
+      "number": "00",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-01",
+      "name": "01 Stuart Valencia",
+      "number": "01",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-02",
+      "name": "02 Barnabas",
+      "number": "02",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-03",
+      "name": "03 Key Lime Mermaid",
+      "number": "03",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-04",
+      "name": "04 Signore Pipistrello",
+      "number": "04",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-05",
+      "name": "05 Bonnie Brae",
+      "number": "05",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-06",
+      "name": "06 Adeline",
+      "number": "06",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-07",
+      "name": "07 Abigail",
+      "number": "07",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-08",
+      "name": "08 Agatha",
+      "number": "08",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-09",
+      "name": "09 Jose Calacas",
+      "number": "09",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-10",
+      "name": "10 Tobias Brimstone",
+      "number": "10",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-11",
+      "name": "11 Valentina Broccha",
+      "number": "11",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-12",
+      "name": "12 Mourning Joe",
+      "number": "12",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-13",
+      "name": "13 Lydia Lovecraft",
+      "number": "13",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-14",
+      "name": "14 Jonathan Lindwurm Chaser",
+      "number": "14",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-15",
+      "name": "15 Stuart Chaser",
+      "number": "15",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s1-16",
+      "name": "16 Pipistresllo Chaser",
+      "number": "16",
+      "series": 1,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-17",
+      "name": "17 Daring D Monicos",
+      "number": "17",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-18",
+      "name": "18 Stuart Valencia",
+      "number": "18",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-19",
+      "name": "19 Victor",
+      "number": "19",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-20",
+      "name": "20 Captain Cagliostro",
+      "number": "20",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-21",
+      "name": "21 Bonnie Brae",
+      "number": "21",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-22",
+      "name": "22 Birdy",
+      "number": "22",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-23",
+      "name": "23 Bernard",
+      "number": "23",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-24",
+      "name": "24 Bethany",
+      "number": "24",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-25",
+      "name": "25 Pumpkinfists",
+      "number": "25",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-26",
+      "name": "26 Natala",
+      "number": "26",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-27",
+      "name": "27 Butterscotch",
+      "number": "27",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-28",
+      "name": "28 Monaxia",
+      "number": "28",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-29",
+      "name": "29 Signore Pipistrello",
+      "number": "29",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-30",
+      "name": "30 Mourning Joe",
+      "number": "30",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-31",
+      "name": "31 Butterscotch Chaser",
+      "number": "31",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-32",
+      "name": "32 Dr Tobias Chaser",
+      "number": "32",
+      "series": 2,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-2023-halfway-to-halloween",
+      "name": "2023 Halfway To Halloween",
+      "number": "",
+      "series": 2,
+      "promo": true,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s2-2023-holiday-promo",
+      "name": "2023 Holiday Promo",
+      "number": "",
+      "series": 2,
+      "promo": true,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-33",
+      "name": "33 Maria Velia",
+      "number": "33",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-34",
+      "name": "34 Reginald Ridley",
+      "number": "34",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-35",
+      "name": "35 Lydia Lovecraft",
+      "number": "35",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-36",
+      "name": "36 Benjamin Falcon",
+      "number": "36",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-37",
+      "name": "37 Stuart And Bonnie",
+      "number": "37",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-38",
+      "name": "38 Benedict Piccadilly",
+      "number": "38",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-39",
+      "name": "39 Clayton",
+      "number": "39",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-40",
+      "name": "40 Cordelia",
+      "number": "40",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-41",
+      "name": "41 Casey",
+      "number": "41",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-42",
+      "name": "42 Six Ravens",
+      "number": "42",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-43",
+      "name": "43 Poppy",
+      "number": "43",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-44",
+      "name": "44 Margaret Lightfoot",
+      "number": "44",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-45",
+      "name": "45 Thaddeus Bubo",
+      "number": "45",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-46",
+      "name": "46 Holly Mackere",
+      "number": "46",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-47",
+      "name": "47 Maria Rare",
+      "number": "47",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-48",
+      "name": "48 Benjamin Rare",
+      "number": "48",
+      "series": 3,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s3-2024-barnabas-promo",
+      "name": "2024 Barnabas Promo",
+      "number": "",
+      "series": 3,
+      "promo": true,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-49",
+      "name": "49 Lindwurm",
+      "number": "49",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-51",
+      "name": "51 Butterscotch",
+      "number": "51",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-52",
+      "name": "52 Bartholomew",
+      "number": "52",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-53",
+      "name": "53 Woman Of The Wake Kind",
+      "number": "53",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-54",
+      "name": "54 Woman Of The Wake Evil",
+      "number": "54",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-55",
+      "name": "55 Nosfere",
+      "number": "55",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-56",
+      "name": "56 Darcy",
+      "number": "56",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-57",
+      "name": "57 Devery",
+      "number": "57",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-58",
+      "name": "58 Duli",
+      "number": "58",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-59",
+      "name": "59 Gordy",
+      "number": "59",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-60",
+      "name": "60 Percy",
+      "number": "60",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-61",
+      "name": "61 Protector",
+      "number": "61",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-62",
+      "name": "62 Ourania",
+      "number": "62",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-63",
+      "name": "63 Quinby",
+      "number": "63",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-64",
+      "name": "64 Bartholomew Chase",
+      "number": "64",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s4-65",
+      "name": "65 Nosfere Chaser",
+      "number": "65",
+      "series": 4,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-66",
+      "name": "66 Gilbert",
+      "number": "66",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-67",
+      "name": "67 Enoch",
+      "number": "67",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-68",
+      "name": "68 Eloise",
+      "number": "68",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-69",
+      "name": "69 Sizlecroft",
+      "number": "69",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-70",
+      "name": "70 Whizz",
+      "number": "70",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-71",
+      "name": "71 Eleanor",
+      "number": "71",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-72",
+      "name": "72 Elijah",
+      "number": "72",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-73",
+      "name": "73 Eek",
+      "number": "73",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-74",
+      "name": "74 Samuel",
+      "number": "74",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-75",
+      "name": "75 Orin",
+      "number": "75",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-76",
+      "name": "76 Morsels Gargoyle",
+      "number": "76",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-77",
+      "name": "77 Morsels Pipistrello",
+      "number": "77",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-78",
+      "name": "78 Morsels Joe",
+      "number": "78",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-79",
+      "name": "79 Morsels Valentina",
+      "number": "79",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-80",
+      "name": "80 Rare Sizlecroft",
+      "number": "80",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-81",
+      "name": "81 Rare Whizz",
+      "number": "81",
+      "series": 5,
+      "promo": false,
+      "front": "",
+      "back": ""
+    },
+    {
+      "id": "s5-h2h-promo-26",
+      "name": "H2H Promo 26",
+      "number": "",
+      "series": 5,
+      "promo": true,
+      "front": "",
+      "back": ""
+    }
+  ]
+}
