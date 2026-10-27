@@ -1,5 +1,4 @@
-
-name: Update Gideon's Card Catalog
+name: Update Gideon's Card Catalog and Bakery Menu
 
 on:
   workflow_dispatch:
@@ -12,26 +11,23 @@ permissions:
 jobs:
   update-cards:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
       - name: Update card catalog
         run: python update_cards.py
-
-      - name: Save updated catalog
+      - name: Update bakery menu
+        run: python update_menu.py
+      - name: Save updated catalogs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add cards.json
-          git diff --cached --quiet || git commit -m "Update Gideon's card catalog"
+          git add cards.json menu.json
+          git diff --cached --quiet || git commit -m "Update Gideon's collector and bakery catalogs"
           git push
