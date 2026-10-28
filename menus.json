@@ -1,0 +1,635 @@
+{
+  "note": "Monthly collector checklist slots; a slot does not guarantee a specific physical menu design was issued. Verified image links are sourced from third-party photos.",
+  "menus": [
+    {
+      "id": "2021-01",
+      "year": 2021,
+      "month": 1,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-02",
+      "year": 2021,
+      "month": 2,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-03",
+      "year": 2021,
+      "month": 3,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-04",
+      "year": 2021,
+      "month": 4,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-05",
+      "year": 2021,
+      "month": 5,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-06",
+      "year": 2021,
+      "month": 6,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-08",
+      "year": 2021,
+      "month": 8,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-09",
+      "year": 2021,
+      "month": 9,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-10",
+      "year": 2021,
+      "month": 10,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-11",
+      "year": 2021,
+      "month": 11,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2021-12",
+      "year": 2021,
+      "month": 12,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-01",
+      "year": 2022,
+      "month": 1,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-02",
+      "year": 2022,
+      "month": 2,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-03",
+      "year": 2022,
+      "month": 3,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-04",
+      "year": 2022,
+      "month": 4,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-05",
+      "year": 2022,
+      "month": 5,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-06",
+      "year": 2022,
+      "month": 6,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-07",
+      "year": 2022,
+      "month": 7,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-08",
+      "year": 2022,
+      "month": 8,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-09",
+      "year": 2022,
+      "month": 9,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-10",
+      "year": 2022,
+      "month": 10,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-11",
+      "year": 2022,
+      "month": 11,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2022-12",
+      "year": 2022,
+      "month": 12,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-01",
+      "year": 2023,
+      "month": 1,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-02",
+      "year": 2023,
+      "month": 2,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-03",
+      "year": 2023,
+      "month": 3,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-04",
+      "year": 2023,
+      "month": 4,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-05",
+      "year": 2023,
+      "month": 5,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-06",
+      "year": 2023,
+      "month": 6,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-07",
+      "year": 2023,
+      "month": 7,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-08",
+      "year": 2023,
+      "month": 8,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-09",
+      "year": 2023,
+      "month": 9,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-10",
+      "year": 2023,
+      "month": 10,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-11",
+      "year": 2023,
+      "month": 11,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2023-12",
+      "year": 2023,
+      "month": 12,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-01",
+      "year": 2024,
+      "month": 1,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-02",
+      "year": 2024,
+      "month": 2,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-03",
+      "year": 2024,
+      "month": 3,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-04",
+      "year": 2024,
+      "month": 4,
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2025/01/03/677823e52fd49a55ee4c7caa/m_6778249ad3309f0235623433.jpeg",
+      "character": "Holly Mackerel",
+      "source": "https://poshmark.com/listing/Gideons-Bakehouse-Menu-Card-Holly-Mackerel-April-224-Disney-Springs-New-677823e52fd49a55ee4c7caa",
+      "verified": true
+    },
+    {
+      "id": "2024-05",
+      "year": 2024,
+      "month": 5,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-06",
+      "year": 2024,
+      "month": 6,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-07",
+      "year": 2024,
+      "month": 7,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-08",
+      "year": 2024,
+      "month": 8,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-09",
+      "year": 2024,
+      "month": 9,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-10",
+      "year": 2024,
+      "month": 10,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2024-11",
+      "year": 2024,
+      "month": 11,
+      "image": "https://di2ponv0v5otw.cloudfront.net/posts/2024/11/01/672527fe693ff704a8e81066/l_wp_6725280a87aeb62857e34695.webp",
+      "character": "Gordy the Pumpkin",
+      "source": "https://poshmark.com/listing/Disney-Springs-Gideons-Bakehouse-NOVEMBER-2024-Menu-Card-Gordy-Gideons-Pumpkin-672527fe693ff704a8e81066",
+      "verified": true
+    },
+    {
+      "id": "2024-12",
+      "year": 2024,
+      "month": 12,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-01",
+      "year": 2025,
+      "month": 1,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-02",
+      "year": 2025,
+      "month": 2,
+      "image": "https://r2-media.wdwnt.com/2025/02/wdw-springs-gideons-bakehouse-february-2025-menu-0401.jpg",
+      "character": "February menu",
+      "source": "https://wdwnt.com/2025/02/eternal-flame-white-chocolate-macadamia-nut-cookies-gideons-bakehouse-feb-2024/",
+      "verified": true
+    },
+    {
+      "id": "2025-03",
+      "year": 2025,
+      "month": 3,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-04",
+      "year": 2025,
+      "month": 4,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-05",
+      "year": 2025,
+      "month": 5,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-06",
+      "year": 2025,
+      "month": 6,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-07",
+      "year": 2025,
+      "month": 7,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-08",
+      "year": 2025,
+      "month": 8,
+      "image": "https://images.squarespace-cdn.com/content/v1/6074cb7375d88d420848825c/0b761e1c-cda5-4ca0-9a2b-90efce4565e6/Prince%2BSizlecroft%2BMenu%2BGideon%27s%2BBakehouse%2BDisney%2BSprings%2BWalt%2BDisney%2BWorld%2BAugust%2B2025.JPG",
+      "character": "Prince Cassius Sizlecroft",
+      "source": "https://www.extramagicminutes.com/blog/gideons-bakehouse-august-2025",
+      "verified": true
+    },
+    {
+      "id": "2025-09",
+      "year": 2025,
+      "month": 9,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-10",
+      "year": 2025,
+      "month": 10,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-11",
+      "year": 2025,
+      "month": 11,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2025-12",
+      "year": 2025,
+      "month": 12,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-01",
+      "year": 2026,
+      "month": 1,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-02",
+      "year": 2026,
+      "month": 2,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-03",
+      "year": 2026,
+      "month": 3,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-04",
+      "year": 2026,
+      "month": 4,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-05",
+      "year": 2026,
+      "month": 5,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-07",
+      "year": 2026,
+      "month": 7,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-08",
+      "year": 2026,
+      "month": 8,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-09",
+      "year": 2026,
+      "month": 9,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    },
+    {
+      "id": "2026-10",
+      "year": 2026,
+      "month": 10,
+      "image": "",
+      "character": "",
+      "source": "",
+      "verified": false
+    }
+  ]
+}
