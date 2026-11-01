@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "source": "https://gideonsbakehouse.com/bakery-menu/",
   "items": [
     {
@@ -386,6 +386,13 @@
       "type": "cookie",
       "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/04/BlueberryLemon.webp?resize=900%2C863&ssl=1",
       "first_seen": "2026-10-27"
+    },
+    {
+      "id": "cookie-crisp-crumble",
+      "name": "Crisp & Crumble",
+      "type": "cookie",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/10/CrispCrumble.webp?resize=1000%2C952&ssl=1",
+      "first_seen": "2026-11-01"
     }
   ]
 }
