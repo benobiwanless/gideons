@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "source": "https://gideonsbakehouse.com/bakery-menu/",
   "items": [
     {
@@ -393,6 +393,48 @@
       "type": "cookie",
       "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/10/CrispCrumble.webp?resize=1000%2C952&ssl=1",
       "first_seen": "2026-11-01"
+    },
+    {
+      "id": "cake-golden-oreo-cake",
+      "name": "Golden Oreo Cake",
+      "type": "cake",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2022/03/GoldenOreoCakeSlice.webp?resize=1080%2C1351&ssl=1",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "cake-dutch-apple-pie-cake",
+      "name": "Dutch Apple Pie Cake",
+      "type": "cake",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2025/10/AppleCake.webp?resize=1080%2C1351&ssl=1",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "cake-cookies-cream-cake",
+      "name": "Cookies & Cream Cake",
+      "type": "cake",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2020/01/CookiesCreamCakeSlice.webp?resize=1080%2C1351&ssl=1",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "cake-hot-cocoa-cake",
+      "name": "Hot Cocoa Cake",
+      "type": "cake",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2025/11/HotCocoaCake26a.webp?resize=1080%2C1351&ssl=1",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "cake-chocolate-churro",
+      "name": "Chocolate Churro",
+      "type": "cake",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2022/06/ChocolateChurroCakeSlice.webp?resize=1080%2C1350&ssl=1",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "cake-pumpkin-caramel-double-frosted-cake",
+      "name": "Pumpkin Caramel Double Frosted Cake",
+      "type": "cake",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/08/pumpcaramelcake_square.webp?resize=810%2C810&ssl=1",
+      "first_seen": "2026-11-04"
     }
   ]
 }
