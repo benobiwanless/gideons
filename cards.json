@@ -1,6 +1,6 @@
 {
   "source": "https://gideonsbakehouse.com/collectors-hub/",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "cards": [
     {
       "id": "s1-00",
@@ -775,6 +775,15 @@
       "promo": true,
       "front": "https://gideonsbakehouse.com/wp-content/uploads/2026/02/footer-logo.svg",
       "back": ""
+    },
+    {
+      "id": "s5-065",
+      "name": "65 1/2 Olivia & Bunn",
+      "number": "65",
+      "series": 5,
+      "promo": false,
+      "front": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/11/65b_Olivia_Front.webp?fit=751%2C1024&ssl=1",
+      "back": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/11/65b_Olivia_Back.webp?fit=751%2C1024&ssl=1"
     }
   ]
 }
