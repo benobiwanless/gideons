@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "source": "https://gideonsbakehouse.com/bakery-menu/",
   "items": [
     {
@@ -435,6 +435,13 @@
       "type": "cake",
       "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2026/08/pumpcaramelcake_square.webp?resize=810%2C810&ssl=1",
       "first_seen": "2026-11-04"
+    },
+    {
+      "id": "cookie-the-maximus",
+      "name": "The Maximus",
+      "type": "cookie",
+      "image": "https://i0.wp.com/gideonsbakehouse.com/wp-content/uploads/2020/02/CC02sm.png?resize=700%2C654&ssl=1",
+      "first_seen": "2026-11-23"
     }
   ]
 }
